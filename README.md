@@ -102,4 +102,6 @@ whatever error I'm getting, and then just look for a Stack Overflow page where s
 
 * Discord. Here are few Discord servers I use to get help with web dev stuff. 
 ** [Speak JS](https://discord.gg/Xdj4Yz)
-** [The Programmer's Hangout](https://discord.me/coding) (this was started by Brad Traversy)
+** [The Programmer's Hangout](https://discord.me/coding) - this was started by Brad Traversy, I believe
+
+**This is unfinished but I will keep adding to it.
