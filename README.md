@@ -61,14 +61,30 @@ project itself is cool.
  technologies and languages.
  
  ##### Udemy
-* Udemy gets a lot of hate because every course on there is like $200. Except, it's not, because they go on sale for $10 every other 
+Udemy gets a lot of hate because every course on there is like $200. Except, it's not, because they go on sale for $10 every other 
  week. I've gotten A LOT of value out of Udemy courses, because I tend to buy the ones that are extremely long. Here are some great 
  courses to start out with, but just wait until they're like ten bucks.
  
-* [The Web Developer Bootcamp by Colt Steele] (https://www.udemy.com/the-web-developer-bootcamp/). Colt is awesome and weird, and he 
+* [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/). Colt is awesome and weird, and he 
  does a great job covering a LOT of material. This is a 46+ hour course, so the bang for your buck is huge. He also has an advanced
  bootcamp that acts as a sequel to this one, and it goes over a lot of really useful stuff.
  
 * [Accelerated JavaScript Training by Max Schwarzmuller](https://www.udemy.com/javascript-bootcamp-2016/). Yes, it's Max again. This
  is a great course for learning a lot about JS in a relatively short amount of time (a speedy 7 hours). This course covers functions,
  objects, arrays, and other key parts of JS (and many other languages).
+ 
+ * [Stephen Grider](https://www.udemy.com/user/sgslo/) and [Andrei Naegoie](https://www.udemy.com/user/andrei-neagoie/) are two amazing
+ instructors whose videos cover a wide range of web dev topics. Both of them are worth returning to once you've got the basics down. 
+ They both have incredible courses on algorithms and data structures that are well worth taking. 
+ 
+ #### Books
+ Okay I'm going to be completely honest - I don't see the point in reading a book for something like web development, unless it has to
+ do with general theory. Any book that contains examples of code is going to be out of date the week after it's printed. This is in 
+ contrast with books about languages like C where you could probably pick up a book about C from 20 years ago and it would still be 
+ relevant. There are a couple "web books" that I will point out:
+ 
+ * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) is a great book about some of the more confusing parts of the 
+ language. Skim through it if you see something super confusing and want to know more.
+ 
+ * [JavaScript for impatient programmers](http://exploringjs.com/impatient-js/). This is a bit more advanced, as the target audience is 
+ people who already know how to use other programming languages, but it's got some really useful information on it.
