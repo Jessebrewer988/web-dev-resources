@@ -12,7 +12,7 @@ cynically, a full-stack position can also be a great way for a company to pay on
 
 ## Getting Started
 
-HTML, CSS, and JavaScript. These are the building blocks of the modern internet. You should learn these first. HTML (hyerptext markup
+HTML, CSS, and JavaScript. These are the building blocks of the modern internet. You should learn these first. HTML (hypertext markup
 language) generally describes the content that is displayed on the webpage - text, images, lists, paragrahs, headings, etc... all fall 
 under HTML. CSS (cascading style sheets) are what makes websites look like they do - the colors, fonts, text shadows, and even 
 animations are the responsilbity of CSS. JavaScript makes websites interactive. JS is a programming language (HTML and CSS are not 
