@@ -49,26 +49,26 @@ text editor, but more on that later.
 
 I will list some of my favorite people here:
 
-** YouTube
-...I watch a lot of YouTubers, but I'm pretty picky because I like some decent production value, and it's always more fun when the 
+##### YouTube
+I watch a lot of YouTubers, but I'm pretty picky because I like some decent production value, and it's always more fun when the 
 project itself is cool. 
- ...[Brad Traversy](https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) has a great series on HTML and CSS. Just 
+* [Brad Traversy](https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) has a great series on HTML and CSS. Just 
  do the first two videos, his HTML and CSS Crash Courses for Absolute Beginners, and then come back for the rest when you want to learn 
  more. His explanations are very simple the projects look nice, and you can get a good grasp of how things work.
  
- ...[Academind - Max Scwarzmuller](https://www.youtube.com/playlist?list=PL55RiY5tL51rv_vo3TM3Byu71RYchX_l_) has another really great 
+* [Academind - Max Scwarzmuller](https://www.youtube.com/playlist?list=PL55RiY5tL51rv_vo3TM3Byu71RYchX_l_) has another really great 
  playlist of HTML, CSS, and JavaScript videos. Max is similar to Brad in that both of their channels cover such a wide array of 
  technologies and languages.
  
- ** Udemy
- ... Udemy gets a lot of hate because every course on there is like $200. Except, it's not, because they go on sale for $10 every other 
+ ##### Udemy
+* Udemy gets a lot of hate because every course on there is like $200. Except, it's not, because they go on sale for $10 every other 
  week. I've gotten A LOT of value out of Udemy courses, because I tend to buy the ones that are extremely long. Here are some great 
  courses to start out with, but just wait until they're like ten bucks.
  
- ...[The Web Developer Bootcamp by Colt Steele] (https://www.udemy.com/the-web-developer-bootcamp/). Colt is awesome and weird, and he 
+* [The Web Developer Bootcamp by Colt Steele] (https://www.udemy.com/the-web-developer-bootcamp/). Colt is awesome and weird, and he 
  does a great job covering a LOT of material. This is a 46+ hour course, so the bang for your buck is huge. He also has an advanced
  bootcamp that acts as a sequel to this one, and it goes over a lot of really useful stuff.
  
- ... [Accelerated JavaScript Training by Max Schwarzmuller](https://www.udemy.com/javascript-bootcamp-2016/). Yes, it's Max again. This
+* [Accelerated JavaScript Training by Max Schwarzmuller](https://www.udemy.com/javascript-bootcamp-2016/). Yes, it's Max again. This
  is a great course for learning a lot about JS in a relatively short amount of time (a speedy 7 hours). This course covers functions,
  objects, arrays, and other key parts of JS (and many other languages).
