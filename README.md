@@ -106,4 +106,4 @@ whatever error I'm getting, and then just look for a Stack Overflow page where s
 
 **This is unfinished but I will keep adding to it.**
 
-*Todo - portfolios, data structures and algorithsm, JavaScript frameworks and libraries.*
+*Todo - portfolios, data structures and algorithms, JavaScript frameworks and libraries.*
