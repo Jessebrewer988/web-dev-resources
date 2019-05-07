@@ -102,9 +102,7 @@ Here are some resources that myself and others use:
 * [Stack Overflow](https://stackoverflow.com/). This is a great resource when you have an issue you can't solve. I generally just Google 
 whatever error I'm getting, and then just look for a Stack Overflow page where someone has a similar issue.
 
-* Discord. Here are few Discord servers I use to get help with web dev stuff. 
- -- [Speak JS](https://discord.gg/Xdj4Yz)
- -- [The Programmer's Hangout](https://discord.me/coding) - this was started by Brad Traversy, I believe
+* Discord. Here are few Discord servers I use to get help with web dev stuff: [Speak JS](https://discord.gg/Xdj4Yz) and [The Programmer's Hangout](https://discord.me/coding)
 
 **This is unfinished but I will keep adding to it.**
 
