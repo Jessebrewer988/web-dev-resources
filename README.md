@@ -104,6 +104,6 @@ whatever error I'm getting, and then just look for a Stack Overflow page where s
 ** [Speak JS](https://discord.gg/Xdj4Yz)
 ** [The Programmer's Hangout](https://discord.me/coding) - this was started by Brad Traversy, I believe
 
-**This is unfinished but I will keep adding to it.
+**This is unfinished but I will keep adding to it.**
 
-*Todo - portfolios, data structures and algorithsm, JavaScript frameworks and libraries 
+*Todo - portfolios, data structures and algorithsm, JavaScript frameworks and libraries.*
