@@ -14,10 +14,11 @@ cynically, a full-stack position can also be a great way for a company to pay on
 
 HTML, CSS, and JavaScript. These are the building blocks of the modern internet. You should learn these first. HTML (hyerptext markup
 language) generally describes the content that is displayed on the webpage - text, images, lists, paragrahs, headings, etc... all fall 
-under HTML. CSS (cascading style sheets) are what makes websites look like they do - the colors, fonts, text shadows, and even animations
-are the responsilbity of CSS. JavaScript is a programming language (HTML and CSS are not "programming" languages in the same sense) that
-has been around for 20-some years and is the best language for new developers because it's both relatively easy to understand and the job
-market is FLUSH with JavaScript developer jobs. Note that JavaScript is not Java - Java is another unrelated programming language.
+under HTML. CSS (cascading style sheets) are what makes websites look like they do - the colors, fonts, text shadows, and even 
+animations are the responsilbity of CSS. JavaScript makes websites interactive. JS is a programming language (HTML and CSS are not 
+"programming" languages in the same sense) that has been around for 20-some years and is the best language for new developers because 
+it's both relatively easy to understand and the job market is FLUSH with JavaScript developer jobs. Note that JavaScript is not Java - 
+Java is another unrelated programming language.
 
 ## Where Do I Learn All of This?
 There are a billion resources for learning HTML, CSS, and JavaScript. I am only going to list my favorites and explain how they can be 
@@ -88,3 +89,17 @@ Udemy gets a lot of hate because every course on there is like $200. Except, it'
  
  * [JavaScript for impatient programmers](http://exploringjs.com/impatient-js/). This is a bit more advanced, as the target audience is 
  people who already know how to use other programming languages, but it's got some really useful information on it.
+
+
+## Now what?
+Projects. Build projects. These can be anything, big and small, like a blog or a weather app, a Pokémon fan site, a todo list, etc... 
+The possibilities are endless. Each project will help you learn. You WILL get frustrated, but that just means you're learning.
+
+### Where to get help
+Here are some resources that myself and others use: 
+* [Stack Overflow](https://stackoverflow.com/). This is a great resource when you have an issue you can't solve. I generally just Google 
+whatever error I'm getting, and then just look for a Stack Overflow page where someone has a similar issue.
+
+* Discord. Here are few Discord servers I use to get help with web dev stuff. 
+** [Speak JS](https://discord.gg/Xdj4Yz)
+** [The Programmer's Hangout](https://discord.me/coding) (this was started by Brad Traversy)
