@@ -13,7 +13,7 @@ cynically, a full-stack position can also be a great way for a company to pay on
 ## Getting Started
 
 HTML, CSS, and JavaScript. These are the building blocks of the modern internet. You should learn these first. HTML (hypertext markup
-language) generally describes the content that is displayed on the webpage - text, images, lists, paragrahs, headings, etc... all fall 
+language) generally describes the content that is displayed on the webpage - text, images, lists, paragraphs, headings, etc... all fall 
 under HTML. CSS (cascading style sheets) are what makes websites look like they do - the colors, fonts, text shadows, and even 
 animations are the responsilbity of CSS. JavaScript makes websites interactive. JS is a programming language (HTML and CSS are not 
 "programming" languages in the same sense) that has been around for 20-some years and is the best language for new developers because 
@@ -29,7 +29,7 @@ College is awesome. It's also an insanely expensive investment that pretty much 
 science degrees will teach you things like C or C++, Java, and lots of algorithms and data structures (more on that later), and a ton of
 theory and practical information about how computers work. This is all awesome and if I didn't have a stupid English degree, I would've 
 done that, but I doubt I will ever go back for a computer science degree. That's OK though, because there are so many self-taught 
-developers out there that it is perfectly acceptable for someone to get a job as a developer with no computer science degree or even a 
+developers out there that it is perfectly acceptable for someone to get a job as a developer without a computer science degree or even a 
 degree at all. 
 
 ### Web Developer Bootcamps
@@ -55,9 +55,9 @@ I watch a lot of YouTubers, but I'm pretty picky because I like some decent prod
 project itself is cool. 
 * [Brad Traversy](https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) has a great series on HTML and CSS. Just 
  do the first two videos, his HTML and CSS Crash Courses for Absolute Beginners, and then come back for the rest when you want to learn 
- more. His explanations are very simple the projects look nice, and you can get a good grasp of how things work.
+ more. His explanations are very simple, the projects look nice, and you can get a good grasp of how things work.
  
-* [Academind - Max Scwarzmuller](https://www.youtube.com/playlist?list=PL55RiY5tL51rv_vo3TM3Byu71RYchX_l_) has another really great 
+* [Academind - Max Schwarzmuller](https://www.youtube.com/playlist?list=PL55RiY5tL51rv_vo3TM3Byu71RYchX_l_) has another really great 
  playlist of HTML, CSS, and JavaScript videos. Max is similar to Brad in that both of their channels cover such a wide array of 
  technologies and languages.
  
@@ -93,7 +93,9 @@ Udemy gets a lot of hate because every course on there is like $200. Except, it'
 
 ## Now what?
 Projects. Build projects. These can be anything, big and small, like a blog or a weather app, a Pokémon fan site, a todo list, etc... 
-The possibilities are endless. Each project will help you learn. You WILL get frustrated, but that just means you're learning.
+The possibilities are endless. Each project will help you learn. You WILL get frustrated, but that just means you're learning. Tutorials 
+will teach common ways people solve basic problems (how to layout a site, how to make buttons clickable, what do to with data, etc...). 
+They will also teach you best practices for stuff like, how projects are structured.
 
 ### Where to get help
 Here are some resources that myself and others use: 
@@ -106,4 +108,5 @@ whatever error I'm getting, and then just look for a Stack Overflow page where s
 
 **This is unfinished but I will keep adding to it.**
 
-*Todo - portfolios, data structures and algorithms, JavaScript frameworks and libraries.*
+*Todo - text editors, portfolios, data structures and algorithms, JavaScript frameworks and libraries, other relevant languages and 
+skills.*
